@@ -1,4 +1,11 @@
-ntc-templates
+# Don't track PyCharm folder
+.idea/
+# Don't track Visual Studio Code folder
 .vscode
+# Don't track the ntc-templates cloned repo
+ntc-templates
+# Don't track your virtual environment
 venv_netmiko
 netmiko_asa_venv
+# Don't track the saved JSON output files
+*.json

@@ -1,0 +1,4 @@
+./ntc-templates
+.vscode
+./venv_netmiko
+./netmiko_asa_venv
